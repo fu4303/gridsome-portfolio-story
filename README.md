@@ -28,7 +28,7 @@
 
 ## Demo URL
 
-[gridsome-portfolio-story.netlify.com](https://gridsome-portfolio-story.netlify.com/)
+https://fu-gridsome-cards.netlify.app
 
 ## Installation
 
