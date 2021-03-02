@@ -2,6 +2,10 @@
 
 > A starter template for Gridsome for designers and developers to tell stories about their work.
 
+<p align="center">
+  <a href="https://fu-gridsome-cards.netlify.app"><img src="src/assets/images/st-gridsome-bus.png?raw=true" alt="Nextjs starter banner"></a>
+</p>
+
 ## [![Netlify Status](https://api.netlify.com/api/v1/badges/17e173de-05f2-4036-b290-6b59e34cff59/deploy-status)](https://app.netlify.com/sites/gridsome-portfolio-story/deploys)
 
 ## One-click deploy to Netlify
